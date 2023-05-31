@@ -1,7 +1,7 @@
 export default function Error() {
     return (
         <h1>
-            Моя кастомная страница
+            Страница не существует
         </h1>
     )
 }
